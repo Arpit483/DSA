@@ -15,11 +15,16 @@ class Pair{
 }
 
 
+    
+
+
+
 public class PairsArray {
     public static void main(String[] args) {
     Pair p = new Pair();
-    int arr[] = {1,2,3,4,5};
+    int arr[] = {1,2,3,4};
     p.p(arr);
+   
         
     }
     
